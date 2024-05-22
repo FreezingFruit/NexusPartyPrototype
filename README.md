@@ -1,1 +1,1 @@
-# NexusPartyPrototype
+Nexus party prototype
